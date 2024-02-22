@@ -181,7 +181,7 @@ body {
     font-size: 0.8rem;
 }
 
-/**************Media queries para hacer la página responsive****************/
+/**************RESPONSIVE****************/
 @media only screen and (max-width: 768px) {
     .contenedor {
         width: 90%;

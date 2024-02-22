@@ -244,6 +244,7 @@ label[for="medico"]:hover {
 #ingresar_btn {
     width: 10vw;
     margin: 20px 20px;
+    min-width: fit-content;
 }
 
 /*Error*/
