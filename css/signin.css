@@ -209,3 +209,8 @@ body {
 #titleMed{
     display: none;
 }
+
+/*************************RESPONSIVE***********************/
+@media only screen and (max-width: 768px) {
+    
+}

@@ -1,4 +1,4 @@
-import { PERFIL } from "../modelos/PERFIL";
+import { PERFIL } from "../enum/PERFIL.js";
 
 function validarFormulario(tipo) {
     let form;

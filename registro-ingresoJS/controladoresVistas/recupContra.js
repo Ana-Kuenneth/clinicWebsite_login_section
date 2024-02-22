@@ -1,4 +1,4 @@
-import { usuariosDefinitivosIniciales } from "../controladoresPrincipal/administrador.js";
+import { usuariosDefinitivosIniciales } from '../controladoresPrincipal/administrador.js';
 
 let formRec = document.getElementById('formRec');
 let contenedorMensaje = document.getElementById('contMensaje');
